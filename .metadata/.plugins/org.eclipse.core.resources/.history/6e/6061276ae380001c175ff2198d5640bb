@@ -1,0 +1,13 @@
+package com.problemSolve.Subha;
+
+public class Kamina {
+
+}
+public class k extends Kamina{
+	int k;
+	k(){
+		this();
+		super();
+		k-5;
+	}
+}

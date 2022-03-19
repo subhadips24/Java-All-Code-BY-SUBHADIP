@@ -1,0 +1,12 @@
+package com.problemSolve.Subha;
+
+public class CaseTest {
+	
+
+}
+public class C extends CaseTest{
+	int k;
+	public C(){
+		
+	}
+}

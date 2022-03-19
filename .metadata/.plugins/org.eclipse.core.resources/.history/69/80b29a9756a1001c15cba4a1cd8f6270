@@ -1,0 +1,28 @@
+package Fnd_Code_Solving;
+
+public class ProblemAccen {
+	static public String contain(String input1,String input2)
+	{
+		String x="no";
+		
+		if(input1.equals(input2)) {
+			x="yes";
+		}else {
+			x="no";
+		}
+	
+		return x;
+		
+	}
+	
+	
+	
+	
+	
+	
+	public static void main(String[] args) {
+		String s1="abab";
+		String s2="ab";
+		System.out.println(contain(s1, s2));
+	}
+}
